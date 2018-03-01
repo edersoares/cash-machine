@@ -9,5 +9,8 @@
             "email": "edersoares@me.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    }
 }
