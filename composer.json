@@ -1,0 +1,13 @@
+{
+    "name": "edersoares/dojo-cash-machine",
+    "description": "http://dojopuzzles.com/problemas/exibe/caixa-eletronico/",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eder Soares",
+            "email": "edersoares@me.com"
+        }
+    ],
+    "require": {}
+}
